@@ -1,0 +1,50 @@
+{
+  "build": "0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/osx-64",
+  "constrains": [],
+  "depends": [],
+  "extracted_package_dir": "/Users/pamel/opt/anaconda3/pkgs/pandoc-2.9.2.1-0",
+  "features": "",
+  "files": [
+    "bin/pandoc",
+    "bin/pandoc-citeproc"
+  ],
+  "fn": "pandoc-2.9.2.1-0.tar.bz2",
+  "license": "GPL-2.0",
+  "license_family": "GPL",
+  "link": {
+    "source": "/Users/pamel/opt/anaconda3/pkgs/pandoc-2.9.2.1-0",
+    "type": 1
+  },
+  "md5": "81dd47a12aad3568f27ce09d29d65d3f",
+  "name": "pandoc",
+  "package_tarball_full_path": "/Users/pamel/opt/anaconda3/pkgs/pandoc-2.9.2.1-0.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "bin/pandoc",
+        "path_type": "hardlink",
+        "sha256": "f8593055dce1a6f8dd36884df81f614247a34e58171fe604882672cf529df6a2",
+        "sha256_in_prefix": "f8593055dce1a6f8dd36884df81f614247a34e58171fe604882672cf529df6a2",
+        "size_in_bytes": 81278176
+      },
+      {
+        "_path": "bin/pandoc-citeproc",
+        "path_type": "hardlink",
+        "sha256": "cb69931a3628eb8afeb9752ac17ab3bdd7476c86ecd0c1a01c169a9319bb75b8",
+        "sha256_in_prefix": "cb69931a3628eb8afeb9752ac17ab3bdd7476c86ecd0c1a01c169a9319bb75b8",
+        "size_in_bytes": 45669904
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "48484d59f066025a7b08b2c01027acf5d54daf2309dc88f4554c420b7e059ec2",
+  "size": 23441514,
+  "subdir": "osx-64",
+  "timestamp": 1586846202923,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/osx-64/pandoc-2.9.2.1-0.tar.bz2",
+  "version": "2.9.2.1"
+}
